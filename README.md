@@ -4,8 +4,6 @@
 
 Soy Luca Pérez, un estudiante de Alura Latam, actualmente realizando la **especialización en Backend con Java**. Este programa abarca temas como Spring Framework, consumo de APIs, y mucho más. Mi objetivo es convertir estos aprendizajes en proyectos prácticos que se irán agregando a este repositorio.
 
-![Alura Latam](https://example.com/alura-latam-logo.png) <!-- Reemplaza esta URL con la imagen real -->
-
 ## 🚀 ¿Qué encontrarás aquí?
 
 En este repositorio, iré subiendo todos los proyectos y el contenido que voy desarrollando a medida que avanzo en mi especialización. Esto incluirá:
@@ -25,12 +23,10 @@ A medida que avance en la especialización, actualizaré el repositorio con los 
 
 ## 📬 Contacto
 
-Si tienes alguna pregunta o quieres discutir sobre los proyectos, no dudes en contactarme a través de [mi perfil en GitHub](https://github.com/tu-perfil) o por [correo electrónico](mailto:tu-email@example.com).
+Si tienes alguna pregunta o quieres discutir sobre los proyectos, no dudes en contactarme a través de [mi perfil en GitHub](https://github.com/tu-perfil) o por [correo electrónico](lucamarper@gmail.com).
 
 ¡Gracias por visitar mi repositorio y espero que encuentres útil el contenido que voy compartiendo!
 
 ---
 
 _Luca Pérez_
-
-https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png

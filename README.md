@@ -33,4 +33,4 @@ Si tienes alguna pregunta o quieres discutir sobre los proyectos, no dudes en co
 
 _Luca Pérez_
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FSpring_Framework&psig=AOvVaw20xkzHGYl2lIqE7uUIt_q1&ust=1726326728806000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD52a-awIgDFQAAAAAdAAAAABAE
+https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png

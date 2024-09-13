@@ -23,7 +23,7 @@ A medida que avance en la especialización, actualizaré el repositorio con los 
 
 ## 📬 Contacto
 
-Si tienes alguna pregunta o quieres discutir sobre los proyectos, no dudes en contactarme a través de [mi perfil en GitHub](https://github.com/tu-perfil) o por [correo electrónico](lucamarper@gmail.com).
+Si tienes alguna pregunta o quieres discutir sobre los proyectos, no dudes en contactarme a través de [mi perfil en GitHub](https://github.com/lucaperez123) o por [correo electrónico](lucamarper@gmail.com).
 
 ¡Gracias por visitar mi repositorio y espero que encuentres útil el contenido que voy compartiendo!
 
